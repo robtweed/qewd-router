@@ -1,0 +1,22 @@
+{
+  "name": "qewd-router",
+  "version": "1.1.0",
+  "description": "URL Router for QEWD Worker processes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/qewd-router.git"
+  },
+  "dependencies": {
+    "route-parser": ""
+  },
+  "author": "Rob Tweed, M/Gateway Developments Ltd",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robtweed/qewd-router/issues"
+  },
+  "homepage": "https://github.com/robtweed/qewd-router#readme"
+}
