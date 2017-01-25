@@ -95,11 +95,11 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
    then the handler function's *args* object will contain the actual values found in the URL for
    *patientId*, *heading* and *sourceId*.  For example, if the actual URL is:
 
-      /api/patients/123456/allergies/abcdef
+       /api/patients/123456/allergies/abcdef
 
-      args.patientId = 123456
-      args.heading   = allergies
-      args.sourceId  = abcdef
+         args.patientId = 123456
+         args.heading   = allergies
+         args.sourceId  = abcdef
 
 
   ### Handling incoming requests using the router
