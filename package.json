@@ -1,6 +1,6 @@
 {
   "name": "qewd-router",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "URL Router for QEWD Worker processes ",
   "main": "index.js",
   "scripts": {
